@@ -1,40 +1,38 @@
-<h1 align="center">Hi, I'm Mohamed Ali 👋</h1>
+<h1 align="left">Hey 👋 What's up?</h1>
 
-<!-- ABOUT ME:START -->
-<p>A passionate fullstack developer 👨‍💻 from 🇫🇷</p>
-<!-- ABOUT ME:END -->
+###
 
-<h3>Languages and Tools used:</h3>
-<p>
-    <a href="https://reactjs.org/" target="_blank">
-        <img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png" alt="React" width="50" height="50"/>
-    </a>  
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-        <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" alt="JavaScript" width="50" height="50"/>
-    </a>  
-    <a href="https://www.php.net/" target="_blank"> 
-        <img src="https://cdn.alsacreations.net/xmedia/doc/full/php-logo.png" alt="PHP" width="50" height="50"/>
-    </a>  
-    <a href="https://www.npmjs.com/" target="_blank"> 
-        <img src="https://www.zdnet.com/a/img/resize/cacc504508a31ccfdf6eb91ff199c529b2d3bb7b/2020/01/13/7b52414d-132a-4ef9-b050-0f16e37f433b/npm.png?auto=webp&fit=crop&height=1200&width=1200" alt="NPM" width="50" height="50"/>
-    </a>  
-    <a href="https://nestjs.com/" target="_blank"> 
-        <img src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg" alt="NestJS" width="50" height="50"/>
-    </a>  
-    <a href="https://nextjs.org/" target="_blank"> 
-        <img src="https://images.ctfassets.net/23aumh6u8s0i/c04wENP3FnbevwdWzrePs/1e2739fa6d0aa5192cf89599e009da4e/nextjs" alt="NextJS" width="50" height="50"/>
-    </a>  
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/800px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript Logo" width="50" height="50"/>
-    </a> 
-    <a href="https://symfony.com/" target="_blank"> 
-        <img src="https://github.com/symfony.png" alt="Symfony" width="50" height="50"/>
-    </a>
-</p>
+<p align="left">My name is Mohamed Ali and I'm a passionate fullstack developer 👨‍💻 from 🇫🇷.</p>
 
-<h3>You can find me here :</h3>
+###
 
-<ul>
-    <li><a href="https://www.linkedin.com/in/mohamed-ali-boubtane-9b3245170">LinkedIn</a> 🕴️</li>
-    <li>m.ali.boubtane@gmail.com 📧</li>
-</ul>
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">✨ I'm a lifelong learner, always eager to expand my knowledge and skills 📚<br>🎲 Fun fact: I thrive on tackling challenging projects and enjoy the thrill of solving complex problems!</p>
+
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+</div>
